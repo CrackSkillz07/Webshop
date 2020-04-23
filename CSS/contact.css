@@ -1,0 +1,47 @@
+body {
+    font-family: Segoe UI;
+}
+.bigtext {
+    font-family: Segoe UI;
+    color: black;
+    margin: 80px 0 50px 0;
+    font-size: 60px;
+    text-align: center;
+}
+
+.bigtext:after {
+    margin: 20px auto 0 auto;
+    content: "";
+    width: 40%;
+    display: block;
+    height: 0.09rem;
+    background-color: black;
+}
+
+.contactbox {
+    background-color: #FFFFFF;
+    width: 50%;
+    height: 375px;
+    margin: 0 auto 40px auto;
+}
+
+#iframe2 {
+    padding: 25px 10px 5px 25px;
+    width: 450px;
+    height: 275px;
+    border: 0;
+}
+
+.contacttext {
+    font-size: 16px;
+    margin: 0 0 0 50px;
+}
+
+.contacttextbold {
+    font-weight: bold;
+}
+
+.right {
+    margin: -300px 250px 0 0;
+    float: right;
+}

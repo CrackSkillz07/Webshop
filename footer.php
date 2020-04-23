@@ -1,4 +1,4 @@
-x<html>
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -18,7 +18,7 @@ x<html>
         <li><a href="#">-Contact</li>
     </ul>
 
-    <iframe width="325" height="160" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=17&center=52.3394%2C5.6193&key=AIzaSyAyJ7kIJUXtheY5n83EJzhTWe1m8aq7KQ0" allowfullscreen></iframe>
+    <iframe id="iframe1" width="325" height="160" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=17&center=52.3394%2C5.6193&key=AIzaSyAyJ7kIJUXtheY5n83EJzhTWe1m8aq7KQ0" allowfullscreen></iframe>
 
 </footer>
 

@@ -91,6 +91,10 @@ function login()
 
     ?>
 
+    <?php
+    @include "footer.php";
+    ?>
+
 </body>
 
 </html>
