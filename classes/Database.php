@@ -3,10 +3,10 @@
 class Database {
 
     // Private variables, hidden for other classes that are not children or parents of this class
-    private $host = 'localhost';
+    private $host = '192.168.1.136';
     private $database = 'webshop';
-    private $username = 'root';
-    private $password = 'root';
+    private $username = 'webshop';
+    private $password = 'ThomasEnJosZijnKleineKinderen123';
 
     public $connection;
 
